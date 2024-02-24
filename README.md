@@ -6,12 +6,13 @@ C++ programs tiny enough to fit on an Anki flashcard.
 Navigate to any `main.cpp` program here, and run
 
 ```bash
-g++ main.cpp
+g++ -std=c++11 main.cpp
+./a.out
 ```
 
-Then run `a.out` to see what happens.
+Then what happens.
 
-Finally, screenshot the program *and* the output and ask yourself if you understand what's happening. Or image occlude parts you aren't sure of and fill in the blanks. The world is your oyster!
+Finally, screenshot the program *and* the output and put it into Anki. Ask yourself if you understand what's happening. Or image occlude parts you aren't sure of and fill in the blanks. The world is your oyster!
 
 ## Motivation
 
